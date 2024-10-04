@@ -1,0 +1,10 @@
+/Lambda
+/Lambda/*.py
+.git
+.gitignore
+*Dockerfile*
+*docker-compose*
+.vscode
+/other
+other
+

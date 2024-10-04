@@ -1,0 +1,8 @@
+/Lambda_api/*.py
+/Lambda_api
+.git
+.gitignore
+*Dockerfile*
+*docker-compose*
+.vscode
+
