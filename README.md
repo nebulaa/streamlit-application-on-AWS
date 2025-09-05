@@ -1,6 +1,6 @@
 # Streamlit Application on AWS
 
-This is a web application project that was developed using Streamlit. The purpose of this project is to build a web application using Azure Cloud services for most backend services.
+This is a web application project that was developed using Streamlit. The purpose of this project is to build a web application using AWS Cloud services for most backend services.
 
 The application uses the following AWS services:
 - S3 Bucket
